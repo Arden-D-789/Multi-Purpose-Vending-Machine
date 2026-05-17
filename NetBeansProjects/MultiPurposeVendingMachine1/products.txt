@@ -1,3 +1,0 @@
-FOODS,1,A1,Chocolate,1.5,10,250
-BEVERAGES,2,B1,Water,0.75,15,true
-TECHNOLOGİCAL,3,C1,Earphones,19.99,3,SoundMax
