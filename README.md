@@ -1,4 +1,3 @@
-Multi-Purpose Vending Machine (Group 31)
 ##Multi-Purpose Vending Machine (Group 31)
 
 
