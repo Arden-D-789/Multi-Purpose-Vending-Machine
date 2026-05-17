@@ -1,1 +1,0 @@
-vendingmachine.products.AbstractProduct
