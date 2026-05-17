@@ -1,0 +1,6 @@
+vendingmachine.logic.ChangeCalculator$PaymentMethod
+vendingmachine.logic.ChangeCalculator_2$PaymentResult
+vendingmachine.logic.ChangeCalculator_2
+vendingmachine.logic.ChangeCalculator$PaymentResult
+vendingmachine.logic.ChangeCalculator
+vendingmachine.logic.ChangeCalculator_2$PaymentMethod
